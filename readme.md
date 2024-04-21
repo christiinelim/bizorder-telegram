@@ -3,7 +3,8 @@
 ## Overview
 The Telegram bot component of the BizOrder Management System project automates customer interactions and order management through Telegram, streamlining the process for both customers and business owners.
 
-GitHub Repository for Frontend (Angular): <a href="https://github.com/christiinelim/business-management-system">Link</a>
+- GitHub Repository for Frontend (Angular): <a href="https://github.com/christiinelim/business-management-system">Link</a>
+- GitHub Repository for Backend (Spring Boot): <a href="https://github.com/christiinelim/bizorder-backend">Link</a>
 
 ## Functionalities
 
